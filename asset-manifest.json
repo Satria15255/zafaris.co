@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/zafaris.co/static/css/main.e5c87d3a.css",
+    "main.js": "/zafaris.co/static/js/main.9c7375c7.js",
+    "static/media/banner 1.2.png": "/zafaris.co/static/media/banner 1.2.f75f7c5367fae7d7225f.png",
+    "static/media/sneakers.png": "/zafaris.co/static/media/sneakers.6dcf252930d30d04172d.png",
+    "static/media/running.png": "/zafaris.co/static/media/running.9dc508e0eedda3e9a0f5.png",
+    "static/media/cat1.png": "/zafaris.co/static/media/cat1.8390f60a07c3c8bdaaed.png",
+    "static/media/basketball.png": "/zafaris.co/static/media/basketball.e08ccc06df78b72ca9ae.png",
+    "static/media/basket3.png": "/zafaris.co/static/media/basket3.799beeb9ee28bf570fe2.png",
+    "static/media/id 5.png": "/zafaris.co/static/media/id 5.79956ae719c70401d1ab.png",
+    "static/media/casual2.png": "/zafaris.co/static/media/casual2.22a4e24d8623704947b0.png",
+    "static/media/casual3.png": "/zafaris.co/static/media/casual3.7f1d4eb5810dddda651b.png",
+    "static/media/running3.png": "/zafaris.co/static/media/running3.758bac2338342244005e.png",
+    "static/media/basket4.png": "/zafaris.co/static/media/basket4.6f7d1eb6c9fa60ed9cc7.png",
+    "static/media/casual1.png": "/zafaris.co/static/media/casual1.3ad6732bae7fd148f2f1.png",
+    "static/media/basket1.png": "/zafaris.co/static/media/basket1.3f6157a751bf20cfad1c.png",
+    "static/media/id 8.png": "/zafaris.co/static/media/id 8.a179c201ebe6c7f8501d.png",
+    "static/media/running4.png": "/zafaris.co/static/media/running4.e68f839c65dd0b9b770d.png",
+    "static/media/running2.png": "/zafaris.co/static/media/running2.b04847146b4fec76cb50.png",
+    "static/media/running1.png": "/zafaris.co/static/media/running1.ae39d451017fe17f8f57.png",
+    "static/media/basket2.png": "/zafaris.co/static/media/basket2.9a59af614a732426232a.png",
+    "static/media/id 6.png": "/zafaris.co/static/media/id 6.f33c6a8e94bcb9523a36.png",
+    "static/media/id 7.png": "/zafaris.co/static/media/id 7.718eae73f32325706232.png",
+    "static/media/casual4.png": "/zafaris.co/static/media/casual4.c026d734982b5b703f6c.png",
+    "index.html": "/zafaris.co/index.html",
+    "main.e5c87d3a.css.map": "/zafaris.co/static/css/main.e5c87d3a.css.map",
+    "main.9c7375c7.js.map": "/zafaris.co/static/js/main.9c7375c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5c87d3a.css",
+    "static/js/main.9c7375c7.js"
+  ]
+}

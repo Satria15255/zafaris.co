@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/zafaris.co/static/css/main.1601d5a2.css",
-    "main.js": "/zafaris.co/static/js/main.35de821e.js",
+    "main.css": "/zafaris.co/static/css/main.2bb8155b.css",
+    "main.js": "/zafaris.co/static/js/main.04ae1c96.js",
     "static/media/banner 1.2.png": "/zafaris.co/static/media/banner 1.2.f75f7c5367fae7d7225f.png",
     "static/media/sneakers.png": "/zafaris.co/static/media/sneakers.6dcf252930d30d04172d.png",
     "static/media/running.png": "/zafaris.co/static/media/running.9dc508e0eedda3e9a0f5.png",
@@ -24,11 +24,11 @@
     "static/media/id 7.png": "/zafaris.co/static/media/id 7.718eae73f32325706232.png",
     "static/media/casual4.png": "/zafaris.co/static/media/casual4.c026d734982b5b703f6c.png",
     "index.html": "/zafaris.co/index.html",
-    "main.1601d5a2.css.map": "/zafaris.co/static/css/main.1601d5a2.css.map",
-    "main.35de821e.js.map": "/zafaris.co/static/js/main.35de821e.js.map"
+    "main.2bb8155b.css.map": "/zafaris.co/static/css/main.2bb8155b.css.map",
+    "main.04ae1c96.js.map": "/zafaris.co/static/js/main.04ae1c96.js.map"
   },
   "entrypoints": [
-    "static/css/main.1601d5a2.css",
-    "static/js/main.35de821e.js"
+    "static/css/main.2bb8155b.css",
+    "static/js/main.04ae1c96.js"
   ]
 }
